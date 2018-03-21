@@ -6,14 +6,14 @@
 
 <div id="showroom-title" class="red-bg">
   <div id="showroom-title-content">
-    <h1>Our</h1> <h2>Showroom</h2>
+    <h1>Our <strong> Showroom</strong></h1>
   </div>
 </div>
 
 <div id="manufacturer-bg" class="container-fluid">
 	<div id="manufacturer-bg-content" class="container">
 		<div class="col-xs-12 col-sm-5ths vertical-center">
-			<a href="/showrooms/Hyundai/">
+			<a href="/showrooms/Hyundai+Construction/">
 				<img src="<?php bloginfo('stylesheet_directory');?>/assets/images/hyundai-logo.png" alt="" width="" border="0" />
 			</a>
 		</div>
