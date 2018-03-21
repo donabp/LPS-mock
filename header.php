@@ -114,7 +114,7 @@
 
 <div id="featured-title">
 	<div id="featured-title-content">
-		<h1>Featured</h1> <h2>Inventory</h2>
+		<h1>Featured <strong> Inventory</strong></h1>
 	</div>
 </div>
 
@@ -144,7 +144,7 @@
 
 <?php if ( !is_front_page() ) : ?>
 
-	<div class="clear"></div>
+<div class="clear"></div>
 <div id="images-bar-wrap">
 	<div id="images-bar">
 
