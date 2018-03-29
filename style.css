@@ -435,39 +435,39 @@ nav a {
 }
 #rotation01 {
 	background:url("assets/images/rotation01.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation02 {
 	background:url("assets/images/rotation02.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation03 {
 	background:url("assets/images/rotation03.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation04 {
 	background:url("assets/images/rotation04.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation05 {
 	background:url("assets/images/rotation05.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation06 {
 	background:url("assets/images/rotation06.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation07 {
 	background:url("assets/images/rotation07.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation08 {
 	background:url("assets/images/rotation08.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 #rotation09 {
 	background:url("assets/images/rotation09.jpg") no-repeat center center;
-	background-size:cover;
+	background-size:contain;
 }
 @media (min-width:1200px) {
 	#hero_spot,
