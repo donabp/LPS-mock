@@ -2,11 +2,7 @@
 <html>
 <head>
 <title><?php wp_title();?></title>
-<meta name="rating" content="General">
-<meta name="robots" content="index,follow">
-<meta name="GOOGLEBOT" content="index,follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="canonical" href=" <?php bloginfo('url');?> ">
 <link rel="alternate" media="only screen and (max-width: 1024px)" href="<?php bloginfo('url');?>">
 <link href="https://fonts.googleapis.com/css?family=Oswald:400,700|Raleway:300,400,700" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
