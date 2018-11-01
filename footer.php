@@ -63,7 +63,7 @@
 					<span class="red-color">479.751.5288</span><br>
 				</p>
 			</div>
-		<a href="https://www.facebook.com/forkliftsAR/" target="_blank">
+		<a href="https://www.facebook.com/forkliftsAR/" target="_blank" rel="noopener">
 			<img src="<?php bloginfo('stylesheet_directory');?>/assets/images/facebook-ft-sm.png">
 		</a>
 	</div>
@@ -75,7 +75,7 @@
 <div id="footer-repeat" class="container-fluid no-padding">
 	<div class="footer container">
 		<div class="cws_logo col-sm-3">
-			<a href="http://commercialwebservices.com/"><img src="<?php bloginfo('stylesheet_directory');?>/assets/images/cws-logo.png" alt="Commercial Web Services"/></a>
+			<a href="https://commercialwebservices.com/" target="_blank" rel="noopener"><img src="<?php bloginfo('stylesheet_directory');?>/assets/images/cws-logo.png" alt="Commercial Web Services"/></a>
 		</div>
 		<div class="footer_links col-sm-9">
 
