@@ -48,6 +48,6 @@ require_once('wp-bootstrap-navwalker.php');
 // Load all of the necessary CSS and JavaScript.
 
 add_action( 'wp_enqueue_scripts', function () {
-
+    wp_enqueue_style( 'font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' );
     wp_enqueue_style( 'main-style', get_stylesheet_uri() );
 } );
